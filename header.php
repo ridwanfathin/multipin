@@ -48,7 +48,7 @@
                         <div class="col-sm-3">
                             <div class="header-logo logo">
                                 <a href="index.php" title="Similikita logo">
-                                    <img class="logo" src="img/logo.png" alt="Similikita logo"/>
+                                    <img class="logo" src="img/logo.png" alt="multipin logo"/>
                                 </a>
                             </div>
                         </div>
@@ -88,7 +88,7 @@
                         <a href="login.php">Masuk</a>
                     </li>
                      <li class="menu-item mega-holder">
-                        <a href="pusat-bantuan.php">Pusat bantuan</a>
+                        <a href="help.php">Pusat bantuan</a>
                     </li>
                 </ul>
             </div>

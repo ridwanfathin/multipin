@@ -1,4 +1,4 @@
-<?php include 'header.php'; ?>
+<?php include 'header-logged.php'; ?>
 
     <div class="hero-area">
         <div class="container">
@@ -55,16 +55,23 @@
         <div class="container">
             <div class="row">
                <div class="col-lg-12 col-sm-8">
-                    <!-- Main Product Widget  -->
-                    <div class="module shop-widget product-module">
-                        <!-- Product tabs -->
-                        
+                     <div class="col-sm-12">
+                        <div class="support-shipping">
+                            <div class="support-shipping-icon">
+                                <i class="fa fa-user" aria-hidden="true"></i>
+                            </div>
+                            <div class="support-shipping-content">
+                                <h5>Nama : Airin</h5>
+                                <h5>Kredit : 56000</h5>
+                                <a href="profil.php" type="button" class="btn btn-default">Profil</a>
+                                <a href="history.php" type="button" class="btn btn-default">Riwayat Transaksi</a>
+                            </div>
+                        </div>
+                    </div>
+
                         <div class="tab-content">
                             <div role="tabpanel" class="tab-pane fade in active" id="new">
-                                <div class="row">
-                                    <h2>Tersedia banyak Voucher dari Game:</h2>
-                                </div>
-                                <br>
+                                <h1>Pilih Game:</h1>
                                 <div class="row">
                                     <div class="product-container">
                                         <div class="product col-sm-2 col-sm-6 new custom">
@@ -76,7 +83,8 @@
                                                 <div class="product-btn">
                                                     <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
                                                     <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
+                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">RF Online</span></a>
+
                                                 </div>
                                             </div>
                                         </div>
@@ -89,7 +97,7 @@
                                                 <div class="product-btn">
                                                     <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
                                                     <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
+                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Dance On</span></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -102,7 +110,7 @@
                                                 <div class="product-btn">
                                                     <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
                                                     <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
+                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Mobile Legend</span></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -115,7 +123,7 @@
                                                 <div class="product-btn">
                                                     <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
                                                     <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
+                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Touch</span></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -128,7 +136,7 @@
                                                 <div class="product-btn">
                                                     <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
                                                     <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
+                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Life of Jaoudal</span></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -141,7 +149,7 @@
                                                 <div class="product-btn">
                                                     <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
                                                     <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
+                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Atlantica</span></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -154,7 +162,7 @@
                                                 <div class="product-btn">
                                                     <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
                                                     <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
+                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Seal new World</span></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -167,7 +175,7 @@
                                                 <div class="product-btn">
                                                     <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
                                                     <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
+                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Final Fantasy</span></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -180,7 +188,7 @@
                                                 <div class="product-btn">
                                                     <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
                                                     <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
+                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">sun Adventure</span></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -193,7 +201,7 @@
                                                 <div class="product-btn">
                                                     <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
                                                     <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
+                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">RF Online</span></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -206,7 +214,7 @@
                                                 <div class="product-btn">
                                                     <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
                                                     <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
+                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Dance On</span></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -219,7 +227,7 @@
                                                 <div class="product-btn">
                                                     <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
                                                     <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
+                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Mobile Legend</span></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -232,7 +240,7 @@
                                                 <div class="product-btn">
                                                     <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
                                                     <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
+                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Touch</span></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -245,7 +253,7 @@
                                                 <div class="product-btn">
                                                     <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
                                                     <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
+                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Life og Joudal</span></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -258,7 +266,7 @@
                                                 <div class="product-btn">
                                                     <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
                                                     <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
+                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Atlantica</span></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -271,7 +279,7 @@
                                                 <div class="product-btn">
                                                     <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
                                                     <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
+                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Seal new World</span></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -284,7 +292,7 @@
                                                 <div class="product-btn">
                                                     <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
                                                     <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
+                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Final Fantasy</span></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -297,7 +305,7 @@
                                                 <div class="product-btn">
                                                     <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
                                                     <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
+                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Sun Adventure</span></a>
                                                 </div>
                                             </div>
                                         </div>

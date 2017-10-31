@@ -82,17 +82,17 @@
                         <a href="index.php">Home</a>
                     </li>
                      <li class="menu-item mega-holder">
-                        <a href="isi-ulang.php">Isi Ulang</a>
+                        <a href="top-up.php">Isi Ulang</a>
                     </li>
                     <li class="menu-item mega-holder">
-                        <a href="beli-voucher.php">Belanja</a>
+                        <a href="buy-voucher.php">Belanja</a>
                     </li>
                      <li class="menu-item mega-holder">
-                        <a href="pusat-bantuan.php">Pusat bantuan</a>
+                        <a href="help.php">Pusat bantuan</a>
                     </li>
                 </ul>
-                <div class=pull-right>
-                    <button href="index.php" type="button" class="btn btn-default">Logout</button>
+                <div class="pull-right">
+                    <a style="margin-top: 5px" href="index.php" type="button" class="btn btn-default">Logout</a>
                 </div>
                 <div class=pull-right>
                     <br>

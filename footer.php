@@ -4,8 +4,8 @@
                 <div class="row">
                     <div class="col-md-4">
                         <ul class="menu footer-menu">
-                            <li class="menu-item"><a href="tentang.php">Tentang</a></li> 
-                            <li class="menu-item"><a href="kontak.php">Kontak</a></li>  
+                            <li class="menu-item"><a href="about.php">Tentang</a></li> 
+                            <li class="menu-item"><a href="contact.php">Kontak</a></li>  
                             
                         </ul>
                         <p class="copyright">Copyright &copy; 2017 <a href="index.php">Multipin</a>. All rights reserved.</p>

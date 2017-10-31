@@ -1050,6 +1050,7 @@ Module Styling
 .thumb-link .front-img{
     position: relative;
     z-index: 1;
+    margin : 3px;
 }
 .thumb-link .hover-img{
     position: absolute;
@@ -2751,4 +2752,9 @@ Home 3 styling
 
 .logo {
     height:80px;
+}
+
+.bordered {
+    border:2px solid #006dbe;
+    margin : 3px;
 }
