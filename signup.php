@@ -24,7 +24,7 @@
                                 <p>Nomor Handphone</p>
                             </div>
                             <div class="col-lg-10">
-                                <input type="number" name="phone" placeholder="Nomor Handphone">
+                                <input type="tel" pattern="[0-9]{12}" name="phone" placeholder="Nomor Handphone">
                             </div>
                             <!--------- Tanggal Lahir ------------>
                             <div class="col-lg-2" style="padding-top: 25px;">
