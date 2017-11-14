@@ -9,6 +9,8 @@
                         </div>
                         <div style="background-image: url(img/slider/slider2.jpg)">
                         </div>
+                        <div style="background-image: url(img/slider/slider3.jpg)">
+                        </div>
                     </div>
                 </div>
             </div>
