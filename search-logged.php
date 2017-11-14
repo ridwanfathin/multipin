@@ -28,7 +28,7 @@
                                 <h5>Kredit : Rp. 56,000</h5>
                                 <a href="profil.php" type="button" class="btn btn-default">Profil</a>
                                 <a href="history.php" type="button" class="btn btn-default">Riwayat Pembelian</a>
-                                <a href="history-topup.php" type="button" class="btn btn-default">Riwayat Isi Ulang</a>
+                                <a href="history-topup.php" type="button" class="btn btn-default">Riwayat isi saldo</a>
                             </div>
                         </div>
                     </div>

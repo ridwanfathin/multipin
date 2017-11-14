@@ -79,7 +79,7 @@
                 <ul class="nav navbar-nav main-menu">
                     
                     <li class="menu-item mega-holder">
-                        <a href="index.php">Home</a>
+                        <a href="index.php">Beranda</a>
                     </li>
                      <li class="menu-item mega-holder">
                         <a href="signup.php">Daftar</a>

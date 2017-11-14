@@ -13,7 +13,7 @@
                                 <h5>Kredit : 56000</h5>
                                  <a href="profil.php" type="button" class="btn btn-default">Profil</a>
                                 <a href="history.php" type="button" class="btn btn-default">Riwayat Pembelian</a>
-                                <a href="history-topup.php" type="button" class="btn btn-default">Riwayat Isi Ulang</a>
+                                <a href="history-topup.php" type="button" class="btn btn-default">Riwayat isi saldo</a>
                             </div>
                         </div>
                     </div>
@@ -277,7 +277,7 @@
         <div class="modal-content">
           <div class="modal-header">
             <button type="button" class="close" data-dismiss="modal">&times;</button>
-            <h4 class="modal-title">Isi ulang Berhasil</h4>
+            <h4 class="modal-title">isi saldo Berhasil</h4>
           </div>
           <div class="modal-body">
             <p> Kredit Multipin Anda telah di top-Up sejumlah RP. 50,000.<br>

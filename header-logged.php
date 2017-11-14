@@ -79,7 +79,7 @@
                 <ul class="nav navbar-nav main-menu">
                     
                     <li class="menu-item mega-holder">
-                        <a href="home.php">Home</a>
+                        <a href="home.php">Beranda</a>
                     </li>
                      <li class="menu-item mega-holder">
                         <a href="top-up.php">Isi Saldo</a>
