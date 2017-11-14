@@ -12,7 +12,8 @@
                                 <h5>Nama : Airin</h5>
                                 <h5>Kredit : 56000</h5>
                                  <a href="profil.php" type="button" class="btn btn-default">Profil</a>
-                                <a href="history.php" type="button" class="btn btn-default">Riwayat Transaksi</a>
+                                <a href="history.php" type="button" class="btn btn-default">Riwayat Pembelian</a>
+                                <a href="history-topup.php" type="button" class="btn btn-default">Riwayat Isi Ulang</a>
                             </div>
                         </div>
                     </div>

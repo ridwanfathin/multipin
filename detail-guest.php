@@ -1,10 +1,10 @@
-<?php include 'header-logged.php'; ?>  
+<?php include 'header.php'; ?>  
      <!-- Breadcumb  -->
     <div class="breadcrumb-wrap"> 
         <div class="container">
            <a class="breadcrumb-link" href="index.php" title="Return to Home">Home</a><i class="breadcrumb-arrow fa fa-angle-right"></i>
             <a class="breadcrumb-link" href="buy-voucher.php">Beli Voucher</a><i class="breadcrumb-arrow fa fa-angle-right"></i>
-            <span class="breadcrumb-current">Mobile Legend</span>
+            <span class="breadcrumb-current">Dance On</span>
     </div>
     
      <!-- Main wrap -->
@@ -26,18 +26,18 @@
                                 <div class="product">
                                     <div class="col-md-8">
                                         <div class="row">
-                                            <h1>Mobile Legend</h1><br>
+                                            <h1>Dance On</h1><br>
                                             <div class="product-thumb">
-                                                <img id="img-holder" src="img/product/3.png" alt="Google Play" data-zoom-image="img/product/3.png">
+                                                <img id="img-holder" src="img/product/2.jpg" alt="Prodigy" data-zoom-image="img/product/3.png">
                                             </div>
-                                            <p>Google Play(IDR)</p>
+                                            <p>Prodigy(IDR)</p>
                                         </div>
-                                        <a href="https://www.mobilelegends.com/" type="button" class="btn btn-default">Kunjungi Website Resmi</a>
+                                        <a href="http://danceon.prodigy.co.id/" type="button" class="btn btn-default">Kunjungi Website Resmi</a>
                                         <div class="row">
                                             <p>
                                                 <br>
-                                    Join your friends in a brand new 5v5 MOBA showdown against real human opponents, Google Plays! Choose your favorite heroes and build the perfect team with your comrades-in-arms! 10-second matchmaking, 10-minute battles. Laning, jungling, tower rushing, team battles, all the fun of PC MOBAs and action games in the palm of your hand! Feed your eSports spirit!<br>
-                                    Google Plays, 2017’s brand new mobile eSports masterpiece. Shatter your opponents with the touch of your finger and claim the crown of strongest Challenger!<br>
+                                    Join your friends in a brand new 5v5 MOBA showdown against real human opponents, Prodigys! Choose your favorite heroes and build the perfect team with your comrades-in-arms! 10-second matchmaking, 10-minute battles. Laning, jungling, tower rushing, team battles, all the fun of PC MOBAs and action games in the palm of your hand! Feed your eSports spirit!<br>
+                                    Prodigys, 2017’s brand new mobile eSports masterpiece. Shatter your opponents with the touch of your finger and claim the crown of strongest Challenger!<br>
                                     Your phone thirsts for battle!<br>
                                     <br>
                                     Features: <br>
@@ -58,14 +58,14 @@
                                     Matchmaking only takes 10 seconds, and battles last 10 minutes, glossing over the quiet early-game leveling up and jumping right into intense battles. Less boring waiting and repetitive farming, and more thrilling action and fist-pumping victories. At any place, at any moment, just pick up your phone, fire up the game, and immerse yourself in heart-pounding MOBA competition.<br>
                                     <br>
                                     6. Smart Offline AI Assistance <br>
-                                    In most MOBAs, a dropped connection means hanging your team out to dry, but with Google Plays’s powerful reconnection system, if you get dropped, you can be back in the battle in seconds. And while you’re offline, your character will be controlled by our AI system to avoid a 5-on-4 situation.<br>
+                                    In most MOBAs, a dropped connection means hanging your team out to dry, but with Prodigys’s powerful reconnection system, if you get dropped, you can be back in the battle in seconds. And while you’re offline, your character will be controlled by our AI system to avoid a 5-on-4 situation.<br>
                                     <br>
                                     Contact Us <br>
-                                    You can get customer service assistance via the [Contact Us] button in the game to help you with any problems you may encounter while playing. You can also find us on the following platforms. We welcome all of your Google Plays thoughts and suggestions:<br>
+                                    You can get customer service assistance via the [Contact Us] button in the game to help you with any problems you may encounter while playing. You can also find us on the following platforms. We welcome all of your Prodigys thoughts and suggestions:<br>
                                     <br>
                                     Official FAQ: http://cs30.net/elva/FAQ/FAQList.aspx?pf_app_id=165<br>
-                                    Customer Service Email: MobileLegendsGame@gmail.com<br>
-                                    Facebook: https://www.facebook.com/MobileLegendsGame/                           
+                                    Customer Service Email: Dance OnGame@gmail.com<br>
+                                    Facebook: https://www.facebook.com/Dance OnGame/                           
                                             </p>
                                         </div>
                                     </div>
@@ -86,25 +86,25 @@
                                           <tbody>
                                             <tr>
                                               <th scope="row">1</th>
-                                              <td>Google Play IDR 12,000</td>
+                                              <td>Prodigy IDR 12,000</td>
                                               <td>16,000</td>
                                                 <td> <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Beli</button> </td>
                                             </tr>
                                             <tr>
                                               <th scope="row">2</th>
-                                              <td>Google Play IDR 50,000</td>
+                                              <td>Prodigy IDR 50,000</td>
                                               <td>56,000</td>
                                               <td> <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Beli</button> </td>
                                             </tr>
                                             <tr>
                                               <th scope="row">3</th>
-                                              <td>Google Play IDR 100,000</td>
+                                              <td>Prodigy IDR 100,000</td>
                                               <td>116,000</td>
                                               <td> <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Beli</button> </td>
                                             </tr>
                                             <tr>
                                               <th scope="row">4</th>
-                                              <td>Google Play IDR 120,000</td>
+                                              <td>Prodigy IDR 120,000</td>
                                               <td>132,000</td>
                                               <td> <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Beli</button> </td>
                                             </tr>
@@ -121,7 +121,8 @@
         </div>
     </div>
     <br><br><br><br><br>
-    <!-- Modal -->
+
+        <!-- Modal -->
     <div id="myModal" class="modal fade" role="dialog">
       <div class="modal-dialog">
 
@@ -129,23 +130,16 @@
         <div class="modal-content">
           <div class="modal-header">
             <button type="button" class="close" data-dismiss="modal">&times;</button>
-            <h4 class="modal-title">Konfirmasi Beli Voucher</h4>
+            <h4 class="modal-title">Anda Harus Masuk</h4>
           </div>
           <div class="modal-body">
-            <p> Kredit Multipin Anda akan dikurangi sejumlah Rp. 16,000.<br>
-            Apakah Anda yakin membeli voucher Google Play IDR 12,000 dengan harga Rp. 16,000?</p>
-            <form>
-            <label>Masukkan kata sandi Anda:</label>
-            <input type="password" name="password-confirm" placeholder="password">
-          </form>
+            <p> Anda harus masuk untuk dapat melakukan transaksi</p>
           </div>
 
           <div class="modal-footer">
-            <a href="success.php" type="button" class="btn btn-default" >Ya</a>
-            <button type="button" class="btn btn-danger" data-dismiss="modal">Tidak</button>
+            <a href="login.php" type="button" class="btn btn-default" >Masuk</a>
           </div>
         </div>
-
       </div>
     </div>
 

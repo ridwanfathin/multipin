@@ -7,7 +7,7 @@
                 <div class="display-flex" style="margin-bottom: 15px">
                     <div class="col-lg-offset-3 col-lg-6 col-md-12 col-sm-12 col-xs-12">
                         <form id="signinForm" class="basicfields account-form" action="home.php" method="post">
-                            <h4 class="form-title">Login</h4>
+                            <h4 class="form-title">Masuk</h4>
                             <div class="col-lg-4" style="padding-top: 25px;">
                                 <p>Email</p>
                             </div>
@@ -21,10 +21,10 @@
                                 <input type="password" name="password" placeholder="Password">
                             </div>
                             <div class="col-lg-offset-4 col-lg-8">
-                                <a href="signup.html#" class="resetlink">Forgot your password?</a>
+                                <a href="#" class="resetlink">Lupa Kata Sandi?</a>
                             </div>
                             <div class="col-lg-offset-4 col-lg-8" style="padding-top: 25px; padding-bottom: 25px;">
-                                <button type="submit" class="btn btn-default"><i class="fa fa-lock" aria-hidden="true"></i> Sign in</button>
+                                <button type="submit" class="btn btn-default"><i class="fa fa-lock" aria-hidden="true"></i> Masuk</button>
                             </div>
                         </form>
                     </div>
@@ -32,7 +32,7 @@
             </div>
         </div>
     </div>
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <br><br><br>
             
     
     <!-------------- Footer ---------------->

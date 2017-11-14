@@ -56,7 +56,7 @@
                             <br><br>
                             <form id="searchform" class="searchform" action="index.php#" method="get">
                                 <input type="search" class="searchinput" name="searchinput" placeholder="Cari..."/>
-                                <button type="submit" class="searchsubmit" name="searchsubmit"><i class="fa fa-search"></i></button>
+                                <button type="submit" class="searchsubmit" name="searchsubmit"><a href="search-logged.php" class="fa fa-search"></a></button>
                             </form>
                         </div>
                     </div>
@@ -79,20 +79,20 @@
                 <ul class="nav navbar-nav main-menu">
                     
                     <li class="menu-item mega-holder">
-                        <a href="index.php">Home</a>
+                        <a href="home.php">Home</a>
                     </li>
                      <li class="menu-item mega-holder">
-                        <a href="top-up.php">Isi Ulang</a>
+                        <a href="top-up.php">Isi Saldo</a>
                     </li>
                     <li class="menu-item mega-holder">
-                        <a href="buy-voucher.php">Belanja</a>
+                        <a href="buy-voucher.php">Beli Voucher</a>
                     </li>
                      <li class="menu-item mega-holder">
                         <a href="help.php">Pusat bantuan</a>
                     </li>
                 </ul>
                 <div class="pull-right">
-                    <a style="margin-top: 5px" href="index.php" type="button" class="btn btn-default">Logout</a>
+                    <a style="margin-top: 5px" href="index.php" type="button" class="btn btn-default">Keluar</a>
                 </div>
                 <div class=pull-right>
                     <br>

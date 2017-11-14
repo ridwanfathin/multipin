@@ -3,43 +3,6 @@
     <div class="hero-area">
         <div class="container">
             <div class="row">
-                <div class="supports-shipping">
-                    <div class="col-sm-4">
-                        <div class="support-shipping">
-                            <div class="support-shipping-icon">
-                                <i class="fa fa-gamepad" aria-hidden="true"></i>
-                            </div>
-                            <div class="support-shipping-content">
-                                <h5>Banyak Varian</h5>
-                                <p>Banyak pilihan voucher game yang tersedia</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-4">
-                        <div class="support-shipping">
-                            <div class="support-shipping-icon">
-                                <i class="fa fa-phone" aria-hidden="true"></i>
-                            </div>
-                            <div class="support-shipping-content">
-                                <h5>Melayani 24/7</h5>
-                                <p>Menerima konsultasi 24 jam</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-4">
-                        <div class="support-shipping">
-                            <div class="support-shipping-icon">
-                                <i class="fa fa-heart" aria-hidden="true"></i>
-                            </div>
-                            <div class="support-shipping-content">
-                                <h5>Bebas Biaya Tambahan</h5>
-                                <p>Tidak akan ada biaya tambahan</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
                 <div class="col-md-12">
                     <div id="hero-slider" class="hero-slider owl-carousel">
                         <div style="background-image: url(img/slider/slider1.jpg)">
@@ -75,7 +38,7 @@
                                 <table class="table table-striped table-inverse">
                                     <tr>
                                       <th>Nama</th>
-                                      <td>Redion Airin</td>
+                                      <td>Airin</td>
                                     </tr>
                                     <tr>
                                       <th>Email</th>
@@ -135,8 +98,8 @@
           </div>
 
           <div class="modal-footer">
-            <a href="home.php" type="button" class="btn btn-danger" >Batal</a>
-            <a href="home.php" type="button" class="btn btn-success" >Ganti Kata Sandi</a>
+            <a href="profil.php" type="button" class="btn btn-danger" >Batal</a>
+            <a href="profil.php" type="button" class="btn btn-default" >Ganti Kata Sandi</a>
           </div>
         </div>
 

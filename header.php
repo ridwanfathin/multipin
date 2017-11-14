@@ -56,7 +56,7 @@
                             <br><br>
                             <form id="searchform" class="searchform" action="index.php#" method="get">
                                 <input type="search" class="searchinput" name="searchinput" placeholder="Cari..."/>
-                                <button type="submit" class="searchsubmit" name="searchsubmit"><i class="fa fa-search"></i></button>
+                                <button type="submit" class="searchsubmit" name="searchsubmit"><a href="search.php" class="fa fa-search"></a></button>
                             </form>
                         </div>
                     </div>

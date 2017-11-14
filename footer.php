@@ -8,7 +8,7 @@
                             <li class="menu-item"><a href="contact.php">Kontak</a></li>  
                             
                         </ul>
-                        <p class="copyright">Copyright &copy; 2017 <a href="index.php">Multipin</a>. All rights reserved.</p>
+                        <p class="copyright">Copyright &copy; 2017 <a href="index.php">Multipin</a>. Prototype Sistem Informasi Kelompok 4.</p>
                     </div>
                     <div class="col-md-4">
                         <div class="socials footer-socials">

@@ -26,9 +26,8 @@
                                         <div class="row">
 							                <div class="display-flex" style="margin-bottom: 15px">
 							                    <div class="col-sm-12">
-						                             <p>Alamat : Jln Gegerkalong Hilir no 17</p>
-                                                     <p>No Hp  : 08567891011</p>
-                                                     <p>Email  : cs@multipin.com</p>
+						                             <p>Kelompok 4 Sistem Infomasi D4 Teknik Informatika</p>
+                                                     <p>2017</p>
 						                            </div>
 							                    </div>  
 							                 </div>

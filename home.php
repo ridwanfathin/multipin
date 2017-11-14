@@ -3,43 +3,6 @@
     <div class="hero-area">
         <div class="container">
             <div class="row">
-                <div class="supports-shipping">
-                    <div class="col-sm-4">
-                        <div class="support-shipping">
-                            <div class="support-shipping-icon">
-                                <i class="fa fa-gamepad" aria-hidden="true"></i>
-                            </div>
-                            <div class="support-shipping-content">
-                                <h5>Banyak Varian</h5>
-                                <p>Banyak pilihan voucher game yang tersedia</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-4">
-                        <div class="support-shipping">
-                            <div class="support-shipping-icon">
-                                <i class="fa fa-phone" aria-hidden="true"></i>
-                            </div>
-                            <div class="support-shipping-content">
-                                <h5>Melayani 24/7</h5>
-                                <p>Menerima konsultasi 24 jam</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-4">
-                        <div class="support-shipping">
-                            <div class="support-shipping-icon">
-                                <i class="fa fa-heart" aria-hidden="true"></i>
-                            </div>
-                            <div class="support-shipping-content">
-                                <h5>Bebas Biaya Tambahan</h5>
-                                <p>Tidak akan ada biaya tambahan</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
                 <div class="col-md-12">
                     <div id="hero-slider" class="hero-slider owl-carousel">
                         <div style="background-image: url(img/slider/slider1.jpg)">
@@ -83,9 +46,10 @@
                                                 <div class="product-btn">
                                                     <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
                                                     <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
+                                                    <a href="detail.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
                                                 </div>
                                             </div>
+                                            <p class="centered">RF Online</p>
                                         </div>
                                         <div class="product col-sm-2 col-sm-6 new custom">
                                             <div class="product-thumb">
@@ -96,9 +60,10 @@
                                                 <div class="product-btn">
                                                     <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
                                                     <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
+                                                    <a href="detail.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
                                                 </div>
                                             </div>
+                                            <p class="centered">Dance On</p>
                                         </div>
                                         <div class="product col-sm-2 col-sm-6 new custom">
                                             <div class="product-thumb">
@@ -109,9 +74,10 @@
                                                 <div class="product-btn">
                                                     <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
                                                     <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
+                                                    <a href="detail.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
                                                 </div>
                                             </div>
+                                            <p class="centered">Mobile Legend</p>
                                         </div>
                                         <div class="product col-sm-2 col-sm-6 new custom">
                                             <div class="product-thumb">
@@ -122,9 +88,10 @@
                                                 <div class="product-btn">
                                                     <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
                                                     <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
+                                                    <a href="detail.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
                                                 </div>
                                             </div>
+                                            <p class="centered">Touch</p>
                                         </div>
                                         <div class="product col-sm-2 col-sm-6 new custom">
                                             <div class="product-thumb">
@@ -135,9 +102,10 @@
                                                 <div class="product-btn">
                                                     <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
                                                     <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
+                                                    <a href="detail.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
                                                 </div>
                                             </div>
+                                            <p class="centered">Life of Joudal</p>
                                         </div>
                                         <div class="product col-sm-2 col-sm-6 new custom">
                                             <div class="product-thumb">
@@ -148,9 +116,10 @@
                                                 <div class="product-btn">
                                                     <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
                                                     <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
+                                                    <a href="detail.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
                                                 </div>
                                             </div>
+                                            <p class="centered">Atlantica</p>
                                         </div>
                                         <div class="product col-sm-2 col-sm-6 new custom">
                                             <div class="product-thumb">
@@ -161,9 +130,10 @@
                                                 <div class="product-btn">
                                                     <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
                                                     <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
+                                                    <a href="detail.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
                                                 </div>
                                             </div>
+                                            <p class="centered">Seal New World</p>
                                         </div>
                                         <div class="product col-sm-2 col-sm-6 new custom">
                                             <div class="product-thumb">
@@ -174,9 +144,10 @@
                                                 <div class="product-btn">
                                                     <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
                                                     <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
+                                                    <a href="detail.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
                                                 </div>
                                             </div>
+                                            <p class="centered">Final Fantasy</p>
                                         </div>
                                         <div class="product col-sm-2 col-sm-6 new custom">
                                             <div class="product-thumb">
@@ -187,9 +158,10 @@
                                                 <div class="product-btn">
                                                     <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
                                                     <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
+                                                    <a href="detail.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
                                                 </div>
                                             </div>
+                                            <p class="centered">Sun Advent</p>
                                         </div>
                                         <div class="product col-sm-2 col-sm-6 new custom">
                                             <div class="product-thumb">
@@ -200,9 +172,10 @@
                                                 <div class="product-btn">
                                                     <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
                                                     <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
+                                                    <a href="detail.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
                                                 </div>
                                             </div>
+                                            <p class="centered">RF Online</p>
                                         </div>
                                         <div class="product col-sm-2 col-sm-6 new custom">
                                             <div class="product-thumb">
@@ -213,9 +186,10 @@
                                                 <div class="product-btn">
                                                     <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
                                                     <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
+                                                    <a href="detail.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
                                                 </div>
                                             </div>
+                                            <p class="centered">Dance On</p>
                                         </div>
                                         <div class="product col-sm-2 col-sm-6 new custom">
                                             <div class="product-thumb">
@@ -226,9 +200,10 @@
                                                 <div class="product-btn">
                                                     <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
                                                     <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
+                                                    <a href="detail.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
                                                 </div>
                                             </div>
+                                            <p class="centered">Mobile Legend</p>
                                         </div>
                                         <div class="product col-sm-2 col-sm-6 new custom">
                                             <div class="product-thumb">
@@ -239,9 +214,10 @@
                                                 <div class="product-btn">
                                                     <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
                                                     <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
+                                                    <a href="detail.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
                                                 </div>
                                             </div>
+                                            <p class="centered">Touch</p>
                                         </div>
                                         <div class="product col-sm-2 col-sm-6 new custom">
                                             <div class="product-thumb">
@@ -252,9 +228,10 @@
                                                 <div class="product-btn">
                                                     <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
                                                     <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
+                                                    <a href="detail.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
                                                 </div>
                                             </div>
+                                            <p class="centered">Life of Joudal</p>
                                         </div>
                                         <div class="product col-sm-2 col-sm-6 new custom">
                                             <div class="product-thumb">
@@ -265,9 +242,10 @@
                                                 <div class="product-btn">
                                                     <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
                                                     <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
+                                                    <a href="detail.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
                                                 </div>
                                             </div>
+                                            <p class="centered">Atlantica</p>
                                         </div>
                                         <div class="product col-sm-2 col-sm-6 new custom">
                                             <div class="product-thumb">
@@ -278,9 +256,10 @@
                                                 <div class="product-btn">
                                                     <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
                                                     <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
+                                                    <a href="detail.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
                                                 </div>
                                             </div>
+                                            <p class="centered">Seal New World</p>
                                         </div>
                                         <div class="product col-sm-2 col-sm-6 new custom">
                                             <div class="product-thumb">
@@ -291,9 +270,10 @@
                                                 <div class="product-btn">
                                                     <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
                                                     <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
+                                                    <a href="detail.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
                                                 </div>
                                             </div>
+                                            <p class="centered">Final Fantasy</p>
                                         </div>
                                         <div class="product col-sm-2 col-sm-6 new custom">
                                             <div class="product-thumb">
@@ -304,9 +284,10 @@
                                                 <div class="product-btn">
                                                     <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
                                                     <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
+                                                    <a href="detail.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
                                                 </div>
                                             </div>
+                                            <p class="centered">Sun Advent</p>
                                         </div>
                                     </div>
                                 </div>

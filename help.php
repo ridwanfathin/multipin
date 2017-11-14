@@ -3,7 +3,7 @@
 <!--------------- Breadcumb ---------------->
     <div class="breadcrumb-wrap"> 
         <div class="container">
-            <a class="breadcrumb-link" href="index.php" title="Return to Home">Home</a><i class="breadcrumb-arrow fa fa-angle-right"></i><a class="breadcrumb-link" href="contact.php" title="Return to Blog">Kontak</a>
+            <a class="breadcrumb-link" href="index.php" title="Return to Home">Home</a><i class="breadcrumb-arrow fa fa-angle-right"></i><a class="breadcrumb-link" href="contact.php" title="Return to Blog">Pusat Bantuan</a>
         </div>
     </div>
     
@@ -26,9 +26,7 @@
                                         <div class="row">
 							                <div class="display-flex" style="margin-bottom: 15px">
 							                    <div class="col-sm-12">
-						                             <p>Alamat : Jln Gegerkalong Hilir no 17</p>
-                                                     <p>No Hp  : 08567891011</p>
-                                                     <p>Email  : cs@multipin.com</p>
+						                             <p>Pusat bantuan penggunaan website</p>
 						                            </div>
 							                    </div>  
 							                 </div>
@@ -46,5 +44,5 @@
         </div>
     </div>
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <?php include 'footer.php'; ?>

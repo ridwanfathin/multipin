@@ -29,7 +29,33 @@
                                     <div class="col-md-12">
                                       <div class="text-center">
                                           <h1>Terimakasih</h1><br>
-                                          <h5>Transaksi pembelian Voucher Google Play IDR 12000 dengan Harga Rp. 16,000 Telah berhasil dilakukan.</h5><br>
+                                          <h5>Transaksi telah berhasil dilakukan dengan rincian sebagai berikut.</h5><br>
+                                          <table class="table table-striped table-inverse">
+                                            <tr>
+                                              <th>Tanggal Transaksi</th>
+                                              <td>17 November 1997</td>
+                                            </tr>
+                                            <tr>
+                                              <th>No. Transaksi</th>
+                                              <td>5</td>
+                                            </tr>
+                                            <tr>
+                                              <th>Harga</th>
+                                              <td>Rp. 16.000,00</td>
+                                            </tr>
+                                            <tr>
+                                              <th>Id Voucher</th>
+                                              <td>7281273</td>
+                                            </tr>
+                                            <tr>
+                                              <th>Voucher</th>
+                                              <td>Google Play IDR 12,000</td>
+                                            </tr>
+                                            <tr>
+                                              <th>Kode</th>
+                                              <td>GP91-98AS-45YU-OP98</td>
+                                            </tr>
+                                        </table>
                                           <a href="home.php" type="button" class="btn btn-default">Kembali ke Home</a>
                                         <h5>
                                       </div>

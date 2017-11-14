@@ -27,56 +27,32 @@
                                 <h5>Nama : Airin</h5>
                                 <h5>Kredit : Rp. 56,000</h5>
                                 <a href="profil.php" type="button" class="btn btn-default">Profil</a>
-                                <a href="history.php" type="button" class="btn btn-default active">Riwayat Pembelian</a>
+                                <a href="history.php" type="button" class="btn btn-default">Riwayat Pembelian</a>
                                 <a href="history-topup.php" type="button" class="btn btn-default">Riwayat Isi Ulang</a>
                             </div>
                         </div>
                     </div>
-
                         <div class="tab-content">
                             <div role="tabpanel" class="tab-pane fade in active" id="new">
-                                <table class="table table-striped table-inverse">
-                                  <thead>
-                                    <tr>
-                                      <th>No</th>
-                                      <th>Tanggal</th>
-                                      <th>Voucher</th>
-                                      <th>Harga(Rp)</th>
-                                    </tr>
-                                  </thead>
-                                  <tbody>
-                                     <tr>
-                                      <th scope="row">1</th>
-                                      <td>19/10/2017</td>
-                                      <td>Google Play IDR 12,000</td>
-                                      <td>16,000</td>
-                                    </tr>
-                                     <tr>
-                                      <th scope="row">2</th>
-                                      <td>20/10/2017</td>
-                                      <td>Google Play IDR 50,000</td>
-                                      <td>56,000</td>
-                                    </tr>
-                                    <tr>
-                                      <th scope="row">3</th>
-                                      <td>22/10/2017</td>
-                                      <td>Google Play IDR 12,000</td>
-                                      <td>16,000</td>
-                                    </tr>
-                                    <tr>
-                                      <th scope="row">4</th>
-                                      <td>23/10/2017</td>
-                                      <td>Google Play IDR 12,000</td>
-                                      <td>16,000</td>
-                                    </tr>
-                                    <tr>
-                                      <th scope="row">5</th>
-                                      <td>25/10/2017</td>
-                                      <td>Google Play IDR 50,000</td>
-                                      <td>56,000</td>
-                                    </tr>
-                                  </tbody>
-                                </table>
+                                <h1>Hasil Pencarian "mobile" :</h1><br>
+                                <div class="row">
+                                    <div class="product-container">
+                                        <div class="product col-sm-2 col-sm-6 new custom">
+                                            <div class="product-thumb">
+                                                <a href="detail.php" class="thumb-link">
+                                                    <img class="front-img" src="img/product/3.png" alt="Product Front">
+                                                </a>
+                                                
+                                                <div class="product-btn">
+                                                    <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
+                                                    <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
+                                                    <a href="detail.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
+                                                </div>
+                                            </div>
+                                            <p class="centered">Mobile Legend</p>
+                                        </div>
+                                    </div>
+                                </div>
                             </div> 
                         </div>
 
