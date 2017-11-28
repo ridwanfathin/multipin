@@ -2,7 +2,7 @@
      <!-- Breadcumb  -->
     <div class="breadcrumb-wrap"> 
         <div class="container">
-           <a class="breadcrumb-link" href="index.php" title="Return to Home">Home</a><i class="breadcrumb-arrow fa fa-angle-right"></i>
+           <a class="breadcrumb-link" href="index.php" title="Return to Beranda">Beranda</a><i class="breadcrumb-arrow fa fa-angle-right"></i>
             <a class="breadcrumb-link" href="buy-voucher.php">Beli Voucher</a><i class="breadcrumb-arrow fa fa-angle-right"></i>
             <span class="breadcrumb-current">Mobile Legend</span>
     </div>
@@ -32,7 +32,6 @@
                                             </div>
                                             <p>Google Play(IDR)</p>
                                         </div>
-                                        <a href="https://www.mobilelegends.com/" type="button" class="btn btn-default">Kunjungi Website Resmi</a>
                                         <div class="row">
                                             <p>
                                                 <br>

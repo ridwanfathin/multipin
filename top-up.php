@@ -285,7 +285,7 @@
           </div>
 
           <div class="modal-footer">
-            <a href="home-topup.php" type="button" class="btn btn-default" >Kembali ke Home</a>
+            <a href="home-topup.php" type="button" class="btn btn-default" >Kembali ke Beranda</a>
           </div>
         </div>
 
@@ -315,7 +315,6 @@
     <script src="js/jquery-ui.min.js"></script>
     <script src="js/jquery.fancybox.js"></script>
     <script src="js/jquery.elevatezoom.js"></script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAmiJjq5DIg_K9fv6RE72OY__p9jz0YTMI"></script>
    <script src="js/map.js"></script>
    <script src="js/custom.js"></script>
 

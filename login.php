@@ -20,9 +20,9 @@
                             <div class="col-lg-8">
                                 <input type="password" name="password" placeholder="Password">
                             </div>
-                            <div class="col-lg-offset-4 col-lg-8">
+                            <!-- <div class="col-lg-offset-4 col-lg-8">
                                 <a href="#" class="resetlink">Lupa Kata Sandi?</a>
-                            </div>
+                            </div> -->
                             <div class="col-lg-offset-4 col-lg-8" style="padding-top: 25px; padding-bottom: 25px;">
                                 <button type="submit" class="btn btn-default"><i class="fa fa-lock" aria-hidden="true"></i> Masuk</button>
                             </div>

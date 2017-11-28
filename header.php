@@ -10,7 +10,7 @@
     
     <!-- External CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/font-awesome.min.css">
     <link rel="stylesheet" href="css/owl.carousel.min.css">
     <link rel="stylesheet" href="css/owl.theme.default.min.css">
     <link rel="stylesheet" href="css/jquery-ui.min.css">
@@ -47,7 +47,7 @@
                     <div class="display-flex">
                         <div class="col-sm-3">
                             <div class="header-logo logo">
-                                <a href="index.php" title="Similikita logo">
+                                <a href="index.php" title="Multipin logo">
                                     <img class="logo" src="img/logo.png" alt="multipin logo"/>
                                 </a>
                             </div>

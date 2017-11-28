@@ -2,7 +2,7 @@
      <!-- Breadcumb  -->
     <div class="breadcrumb-wrap"> 
         <div class="container">
-            <a class="breadcrumb-link" href="index.php" title="Return to Home">Home</a><i class="breadcrumb-arrow fa fa-angle-right"></i>
+            <a class="breadcrumb-link" href="index.php" title="Return to Beranda">Beranda</a><i class="breadcrumb-arrow fa fa-angle-right"></i>
             <a class="breadcrumb-link" href="buy-voucher.php">Beli Voucher</a><i class="breadcrumb-arrow fa fa-angle-right"></i>
             <a class="breadcrumb-link" href="detail.php">Mobile Legend</a><i class="breadcrumb-arrow fa fa-angle-right"></i>
             <span class="breadcrumb-current">Transaksi Gagal</span>

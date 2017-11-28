@@ -3,7 +3,7 @@
 <!--------------- Breadcumb ---------------->
     <div class="breadcrumb-wrap"> 
         <div class="container">
-            <a class="breadcrumb-link" href="index.php" title="Return to Home">Home</a><i class="breadcrumb-arrow fa fa-angle-right"></i><a class="breadcrumb-link" href="contact.php" title="Return to Blog">Kontak</a>
+            <a class="breadcrumb-link" href="index.php" title="Return to Beranda">Beranda</a><i class="breadcrumb-arrow fa fa-angle-right"></i><a class="breadcrumb-link" href="contact.php" title="Return to Blog">Kontak</a>
         </div>
     </div>
     
