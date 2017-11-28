@@ -1,4 +1,4 @@
-<?php include 'header.php'; ?>
+<?php include 'header-logged.php'; ?>
 
 <!--------------- Breadcumb ---------------->
     <div class="breadcrumb-wrap"> 
