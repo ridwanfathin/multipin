@@ -34,267 +34,181 @@
                             </div>
                         </div>
                     </div>
-                        <div class="tab-content">
-                            <div role="tabpanel" class="tab-pane fade in active" id="new">
-                                <h1>Tersedia banyak Voucher dari Game:</h1><br>
-                                <div class="row">
-                                    <div class="product-container">
-                                        <div class="product col-sm-2 col-sm-6 new custom">
-                                            <div class="product-thumb">
-                                                <a href="detail.php" class="thumb-link">
-                                                    <img class="front-img" src="img/product/1.png" alt="Product Front">
-                                                </a>
-                                                
-                                                <div class="product-btn">
-                                                    <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
-                                                    <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="detail.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
-                                                </div>
-                                            </div>
-                                            <p class="centered">RF Online</p>
+                    <div class="tab-content">
+                    <div role="tabpanel" class="tab-pane fade in active" id="new">
+                        <h1>Tersedia banyak Voucher dari Game:</h1><br>
+                        <div class="row">
+                            <div class="product-container">
+                                <div class="product col-sm-2 col-sm-6 new custom">
+                                    <div class="product-thumb">
+                                        <a href="detail.php" class="thumb-link">
+                                            <img class="front-img" src="img/product/1.png" alt="Product Front">
+                                        </a>
+                                        
+                                        <div class="product-btn">
+                                            <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
+                                            <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
+                                            <a href="detail.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
                                         </div>
-                                        <div class="product col-sm-2 col-sm-6 new custom">
-                                            <div class="product-thumb">
-                                                <a href="detail.php" class="thumb-link">
-                                                    <img  src="img/product/2.jpg" alt="Product Front">
-                                                </a>
-                                                
-                                                <div class="product-btn">
-                                                    <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
-                                                    <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="detail.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
-                                                </div>
-                                            </div>
-                                            <p class="centered">Dance On</p>
+                                    </div>
+                                    <p class="centered">RF Online</p>
+                                </div>
+                                <div class="product col-sm-2 col-sm-6 new custom">
+                                    <div class="product-thumb">
+                                        <a href="detail.php" class="thumb-link">
+                                            <img  src="img/product/2.jpg" alt="Product Front">
+                                        </a>
+                                        
+                                        <div class="product-btn">
+                                            <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
+                                            <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
+                                            <a href="detail.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
                                         </div>
-                                        <div class="product col-sm-2 col-sm-6 new custom">
-                                            <div class="product-thumb">
-                                                <a href="detail.php" class="thumb-link">
-                                                    <img class="front-img" src="img/product/3.png" alt="Product Front">
-                                                </a>
-                                                
-                                                <div class="product-btn">
-                                                    <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
-                                                    <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="detail.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
-                                                </div>
-                                            </div>
-                                            <p class="centered">Mobile Legend</p>
+                                    </div>
+                                    <p class="centered">Dance On</p>
+                                </div>
+                                <div class="product col-sm-2 col-sm-6 new custom">
+                                    <div class="product-thumb">
+                                        <a href="detail.php" class="thumb-link">
+                                            <img class="front-img" src="img/product/3.png" alt="Product Front">
+                                        </a>
+                                        
+                                        <div class="product-btn">
+                                            <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
+                                            <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
+                                            <a href="detail.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
                                         </div>
-                                        <div class="product col-sm-2 col-sm-6 new custom">
-                                            <div class="product-thumb">
-                                                <a href="detail.php" class="thumb-link">
-                                                    <img class="front-img" src="img/product/4.png" alt="Product Front">
-                                                </a>
-                                                
-                                                <div class="product-btn">
-                                                    <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
-                                                    <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="detail.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
-                                                </div>
-                                            </div>
-                                            <p class="centered">Touch</p>
+                                    </div>
+                                    <p class="centered">Mobile Legend</p>
+                                </div>
+                                <div class="product col-sm-2 col-sm-6 new custom">
+                                    <div class="product-thumb">
+                                        <a href="detail.php" class="thumb-link">
+                                            <img class="front-img" src="img/product/4.png" alt="Product Front">
+                                        </a>
+                                        
+                                        <div class="product-btn">
+                                            <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
+                                            <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
+                                            <a href="detail.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
                                         </div>
-                                        <div class="product col-sm-2 col-sm-6 new custom">
-                                            <div class="product-thumb">
-                                                <a href="detail.php" class="thumb-link">
-                                                    <img class="front-img" src="img/product/5.png" alt="Product Front">
-                                                </a>
-                                                
-                                                <div class="product-btn">
-                                                    <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
-                                                    <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="detail.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
-                                                </div>
-                                            </div>
-                                            <p class="centered">Life of Joudal</p>
+                                    </div>
+                                    <p class="centered">Touch</p>
+                                </div>
+                                <div class="product col-sm-2 col-sm-6 new custom">
+                                    <div class="product-thumb">
+                                        <a href="detail.php" class="thumb-link">
+                                            <img class="front-img" src="img/product/5.png" alt="Product Front">
+                                        </a>
+                                        
+                                        <div class="product-btn">
+                                            <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
+                                            <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
+                                            <a href="detail.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
                                         </div>
-                                        <div class="product col-sm-2 col-sm-6 new custom">
-                                            <div class="product-thumb">
-                                                <a href="detail.php" class="thumb-link">
-                                                    <img class="front-img" src="img/product/6.png" alt="Product Front">
-                                                </a>
-                                                
-                                                <div class="product-btn">
-                                                    <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
-                                                    <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="detail.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
-                                                </div>
-                                            </div>
-                                            <p class="centered">Atlantica</p>
+                                    </div>
+                                    <p class="centered">Life of Joudal</p>
+                                </div>
+                                <div class="product col-sm-2 col-sm-6 new custom">
+                                    <div class="product-thumb">
+                                        <a href="detail.php" class="thumb-link">
+                                            <img class="front-img" src="img/product/6.png" alt="Product Front">
+                                        </a>
+                                        
+                                        <div class="product-btn">
+                                            <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
+                                            <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
+                                            <a href="detail.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
                                         </div>
-                                        <div class="product col-sm-2 col-sm-6 new custom">
-                                            <div class="product-thumb">
-                                                <a href="detail.php" class="thumb-link">
-                                                    <img class="front-img" src="img/product/7.png" alt="Product Front">
-                                                </a>
-                                                
-                                                <div class="product-btn">
-                                                    <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
-                                                    <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="detail.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
-                                                </div>
-                                            </div>
-                                            <p class="centered">Seal New World</p>
-                                        </div>
-                                        <div class="product col-sm-2 col-sm-6 new custom">
-                                            <div class="product-thumb">
-                                                <a href="detail.php" class="thumb-link">
-                                                    <img class="front-img" src="img/product/8.png" alt="Product Front">
-                                                </a>
-                                                
-                                                <div class="product-btn">
-                                                    <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
-                                                    <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="detail.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
-                                                </div>
-                                            </div>
-                                            <p class="centered">Final Fantasy</p>
-                                        </div>
-                                        <div class="product col-sm-2 col-sm-6 new custom">
-                                            <div class="product-thumb">
-                                                <a href="detail.php" class="thumb-link">
-                                                    <img class="front-img" src="img/product/9.png" alt="Product Front">
-                                                </a>
-                                                
-                                                <div class="product-btn">
-                                                    <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
-                                                    <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="detail.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
-                                                </div>
-                                            </div>
-                                            <p class="centered">Sun Advent</p>
-                                        </div>
-                                        <div class="product col-sm-2 col-sm-6 new custom">
-                                            <div class="product-thumb">
-                                                <a href="detail.php" class="thumb-link">
-                                                    <img class="front-img" src="img/product/1.png" alt="Product Front">
-                                                </a>
-                                                
-                                                <div class="product-btn">
-                                                    <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
-                                                    <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="detail.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
-                                                </div>
-                                            </div>
-                                            <p class="centered">RF Online</p>
-                                        </div>
-                                        <div class="product col-sm-2 col-sm-6 new custom">
-                                            <div class="product-thumb">
-                                                <a href="detail.php" class="thumb-link">
-                                                    <img  src="img/product/2.jpg" alt="Product Front">
-                                                </a>
-                                                
-                                                <div class="product-btn">
-                                                    <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
-                                                    <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="detail.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
-                                                </div>
-                                            </div>
-                                            <p class="centered">Dance On</p>
-                                        </div>
-                                        <div class="product col-sm-2 col-sm-6 new custom">
-                                            <div class="product-thumb">
-                                                <a href="detail.php" class="thumb-link">
-                                                    <img class="front-img" src="img/product/3.png" alt="Product Front">
-                                                </a>
-                                                
-                                                <div class="product-btn">
-                                                    <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
-                                                    <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="detail.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
-                                                </div>
-                                            </div>
-                                            <p class="centered">Mobile Legend</p>
-                                        </div>
-                                        <div class="product col-sm-2 col-sm-6 new custom">
-                                            <div class="product-thumb">
-                                                <a href="detail.php" class="thumb-link">
-                                                    <img class="front-img" src="img/product/4.png" alt="Product Front">
-                                                </a>
-                                                
-                                                <div class="product-btn">
-                                                    <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
-                                                    <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="detail.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
-                                                </div>
-                                            </div>
-                                            <p class="centered">Touch</p>
-                                        </div>
-                                        <div class="product col-sm-2 col-sm-6 new custom">
-                                            <div class="product-thumb">
-                                                <a href="detail.php" class="thumb-link">
-                                                    <img class="front-img" src="img/product/5.png" alt="Product Front">
-                                                </a>
-                                                
-                                                <div class="product-btn">
-                                                    <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
-                                                    <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="detail.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
-                                                </div>
-                                            </div>
-                                            <p class="centered">Life of Joudal</p>
-                                        </div>
-                                        <div class="product col-sm-2 col-sm-6 new custom">
-                                            <div class="product-thumb">
-                                                <a href="detail.php" class="thumb-link">
-                                                    <img class="front-img" src="img/product/6.png" alt="Product Front">
-                                                </a>
-                                                
-                                                <div class="product-btn">
-                                                    <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
-                                                    <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="detail.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
-                                                </div>
-                                            </div>
-                                            <p class="centered">Atlantica</p>
-                                        </div>
-                                        <div class="product col-sm-2 col-sm-6 new custom">
-                                            <div class="product-thumb">
-                                                <a href="detail.php" class="thumb-link">
-                                                    <img class="front-img" src="img/product/7.png" alt="Product Front">
-                                                </a>
-                                                
-                                                <div class="product-btn">
-                                                    <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
-                                                    <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="detail.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
-                                                </div>
-                                            </div>
-                                            <p class="centered">Seal New World</p>
-                                        </div>
-                                        <div class="product col-sm-2 col-sm-6 new custom">
-                                            <div class="product-thumb">
-                                                <a href="detail.php" class="thumb-link">
-                                                    <img class="front-img" src="img/product/8.png" alt="Product Front">
-                                                </a>
-                                                
-                                                <div class="product-btn">
-                                                    <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
-                                                    <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="detail.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
-                                                </div>
-                                            </div>
-                                            <p class="centered">Final Fantasy</p>
-                                        </div>
-                                        <div class="product col-sm-2 col-sm-6 new custom">
-                                            <div class="product-thumb">
-                                                <a href="detail.php" class="thumb-link">
-                                                    <img class="front-img" src="img/product/9.png" alt="Product Front">
-                                                </a>
-                                                
-                                                <div class="product-btn">
-                                                    <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
-                                                    <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="detail.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
-                                                </div>
-                                            </div>
-                                            <p class="centered">Sun Advent</p>
+                                    </div>
+                                    <p class="centered">Atlantica</p>
+                                </div>
+                                <div class="product col-sm-2 col-sm-6 new custom">
+                                    <a href="buy-voucher.php"><h3>Selengkapnya</h3></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div> 
+                </div>
+                <br><br><br><br>
+                <div class="tab-content">
+                    <div role="tabpanel" class="tab-pane fade in active" id="new">
+                        <h1>Terdapat banyak pilihan Channel Pembayaran:</h1>
+                        <br>
+                        <div class="row">
+                            <div class="product-container">
+                                <div class="product col-sm-2 col-sm-6 new custom bordered">
+                                    <div class="product-thumb">
+                                        <a href="detail.php" class="thumb-link">
+                                            <img class="front-img" src="img/channel/1.png" alt="Product Front">
+                                        </a>
+                                        
+                                        <div class="product-btn">
+                                            <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
+                                            <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
+                                            <a href="#" id="toChannel"><i class="fa fa-eye"></i><span class="tooltip">Top Up</span></a>
                                         </div>
                                     </div>
                                 </div>
-                            </div> 
+                                <div class="product col-sm-2 col-sm-6 new custom bordered">
+                                    <div class="product-thumb">
+                                        <a href="detail.php" class="thumb-link">
+                                            <img  src="img/channel/2.png" alt="Product Front">
+                                        </a>
+                                        
+                                        <div class="product-btn">
+                                            <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
+                                            <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
+                                            <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Top Up</span></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="product col-sm-2 col-sm-6 new custom bordered">
+                                    <div class="product-thumb">
+                                        <a href="detail.php" class="thumb-link">
+                                            <img class="front-img" src="img/channel/3.png" alt="Product Front">
+                                        </a>
+                                        
+                                        <div class="product-btn">
+                                            <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
+                                            <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
+                                            <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Top Up</span></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="product col-sm-2 col-sm-6 new custom bordered">
+                                    <div class="product-thumb">
+                                        <a href="detail.php" class="thumb-link">
+                                            <img class="front-img" src="img/channel/4.png" alt="Product Front">
+                                        </a>
+                                        
+                                        <div class="product-btn">
+                                            <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
+                                            <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
+                                            <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Top Up</span></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="product col-sm-2 col-sm-6 new custom bordered">
+                                    <div class="product-thumb">
+                                        <a href="detail.php" class="thumb-link">
+                                            <img class="front-img" src="img/channel/5.png" alt="Product Front">
+                                        </a>
+                                        
+                                        <div class="product-btn">
+                                            <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
+                                            <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
+                                            <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Top Up</span></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="product col-sm-2 col-sm-6 new custom">
+                                    <a href="top-up.php"><h3>Selengkapnya</h3></a>
+                                </div>
+                            </div>
                         </div>
+                    </div> 
+                </div>
 
                     </div>                         
                 </div>

@@ -1,19 +1,4 @@
 <?php include 'header-logged.php'; ?>
-
-    <div class="hero-area">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <div id="hero-slider" class="hero-slider owl-carousel">
-                        <div style="background-image: url(img/slider/slider1.jpg)">
-                        </div>
-                        <div style="background-image: url(img/slider/slider2.jpg)">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
     <div class="main-wrap">
         <div class="container">
             <div class="row">
