@@ -31,90 +31,90 @@
                                 <div class="product-container">
                                     <div class="product col-sm-2 col-sm-6 new custom">
                                         <div class="product-thumb">
-                                            <a href="detail.php" class="thumb-link">
+                                            <a  href="detail-guest.php" class="thumb-link">
                                                 <img class="front-img" src="img/product/1.png" alt="Product Front">
                                             </a>
                                             
                                             <div class="product-btn">
                                                 <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
                                                 <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                <a href="detail.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
+                                                <a  href="detail-guest.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
                                             </div>
                                         </div>
                                         <p class="centered">RF Online</p>
                                     </div>
                                     <div class="product col-sm-2 col-sm-6 new custom">
                                         <div class="product-thumb">
-                                            <a href="detail.php" class="thumb-link">
+                                            <a  href="detail-guest.php" class="thumb-link">
                                                 <img  src="img/product/2.jpg" alt="Product Front">
                                             </a>
                                             
                                             <div class="product-btn">
                                                 <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
                                                 <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                <a href="detail.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
+                                                <a  href="detail-guest.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
                                             </div>
                                         </div>
                                         <p class="centered">Dance On</p>
                                     </div>
                                     <div class="product col-sm-2 col-sm-6 new custom">
                                         <div class="product-thumb">
-                                            <a href="detail.php" class="thumb-link">
+                                            <a  href="detail-guest.php" class="thumb-link">
                                                 <img class="front-img" src="img/product/3.png" alt="Product Front">
                                             </a>
                                             
                                             <div class="product-btn">
                                                 <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
                                                 <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                <a href="detail.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
+                                                <a  href="detail-guest.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
                                             </div>
                                         </div>
                                         <p class="centered">Mobile Legend</p>
                                     </div>
                                     <div class="product col-sm-2 col-sm-6 new custom">
                                         <div class="product-thumb">
-                                            <a href="detail.php" class="thumb-link">
+                                            <a  href="detail-guest.php" class="thumb-link">
                                                 <img class="front-img" src="img/product/4.png" alt="Product Front">
                                             </a>
                                             
                                             <div class="product-btn">
                                                 <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
                                                 <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                <a href="detail.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
+                                                <a  href="detail-guest.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
                                             </div>
                                         </div>
                                         <p class="centered">Touch</p>
                                     </div>
                                     <div class="product col-sm-2 col-sm-6 new custom">
                                         <div class="product-thumb">
-                                            <a href="detail.php" class="thumb-link">
+                                            <a  href="detail-guest.php" class="thumb-link">
                                                 <img class="front-img" src="img/product/5.png" alt="Product Front">
                                             </a>
                                             
                                             <div class="product-btn">
                                                 <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
                                                 <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                <a href="detail.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
+                                                <a  href="detail-guest.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
                                             </div>
                                         </div>
                                         <p class="centered">Life of Joudal</p>
                                     </div>
                                     <div class="product col-sm-2 col-sm-6 new custom">
                                         <div class="product-thumb">
-                                            <a href="detail.php" class="thumb-link">
+                                            <a  href="detail-guest.php" class="thumb-link">
                                                 <img class="front-img" src="img/product/6.png" alt="Product Front">
                                             </a>
                                             
                                             <div class="product-btn">
                                                 <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
                                                 <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                <a href="detail.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
+                                                <a href="detail-guest.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
                                             </div>
                                         </div>
                                         <p class="centered">Atlantica</p>
                                     </div>
                                     <div class="product col-sm-2 col-sm-6 new custom">
-                                        <a href="buy-voucher.php"><h3>Selengkapnya</h3></a>
+                                        <a  href="detail-guest.php"><h3>Selengkapnya</h3></a>
                                     </div>
                                 </div>
                             </div>
@@ -129,46 +129,46 @@
                                 <div class="product-container">
                                     <div class="product col-sm-2 col-sm-6 new custom bordered">
                                         <div class="product-thumb">
-                                            <a href="detail.php" class="thumb-link">
+                                            <a  data-toggle="modal" data-target="#myModal" class="thumb-link">
                                                 <img class="front-img" src="img/channel/1.png" alt="Product Front">
                                             </a>
                                             
                                             <div class="product-btn">
                                                 <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
                                                 <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                <a href="#" id="toChannel"><i class="fa fa-eye"></i><span class="tooltip">Top Up</span></a>
+                                                <a id="toChannel"><i class="fa fa-eye"></i><span class="tooltip">Top Up</span></a>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="product col-sm-2 col-sm-6 new custom bordered">
                                         <div class="product-thumb">
-                                            <a href="detail.php" class="thumb-link">
+                                            <a  data-toggle="modal" data-target="#myModal" class="thumb-link">
                                                 <img  src="img/channel/2.png" alt="Product Front">
                                             </a>
                                             
                                             <div class="product-btn">
                                                 <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
                                                 <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Top Up</span></a>
+                                                <a data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Top Up</span></a>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="product col-sm-2 col-sm-6 new custom bordered">
                                         <div class="product-thumb">
-                                            <a href="detail.php" class="thumb-link">
+                                            <a  data-toggle="modal" data-target="#myModal" class="thumb-link">
                                                 <img class="front-img" src="img/channel/3.png" alt="Product Front">
                                             </a>
                                             
                                             <div class="product-btn">
                                                 <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
                                                 <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Top Up</span></a>
+                                                <a data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Top Up</span></a>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="product col-sm-2 col-sm-6 new custom bordered">
                                         <div class="product-thumb">
-                                            <a href="detail.php" class="thumb-link">
+                                            <a  data-toggle="modal" data-target="#myModal" class="thumb-link">
                                                 <img class="front-img" src="img/channel/4.png" alt="Product Front">
                                             </a>
                                             
@@ -181,7 +181,7 @@
                                     </div>
                                     <div class="product col-sm-2 col-sm-6 new custom bordered">
                                         <div class="product-thumb">
-                                            <a href="detail.php" class="thumb-link">
+                                            <a  data-toggle="modal" data-target="#myModal" class="thumb-link">
                                                 <img class="front-img" src="img/channel/5.png" alt="Product Front">
                                             </a>
                                             
@@ -206,6 +206,27 @@
         </div>
     </div>
     <br><br><br><br>
+
+       <!-- Modal -->
+       <div id="myModal" class="modal fade" role="dialog">
+      <div class="modal-dialog">
+
+        <!-- Modal content-->
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal">&times;</button>
+            <h4 class="modal-title">Anda Harus Masuk</h4>
+          </div>
+          <div class="modal-body">
+            <p> Anda harus masuk untuk dapat melakukan transaksi</p>
+          </div>
+
+          <div class="modal-footer">
+            <a href="login.php" type="button" class="btn btn-default" >Masuk</a>
+          </div>
+        </div>
+      </div>
+    </div>
   
     <?php include 'footer.php'; ?>
      
