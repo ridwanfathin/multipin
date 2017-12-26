@@ -98,7 +98,10 @@ ul{
 .btn i.right{
     margin-left: 5px;
 }
-
+.btn-default.active{
+    background-color: grey;
+    color: black;
+}
 /*---------- Common From and Input ----------*/
 form{
     position: relative;

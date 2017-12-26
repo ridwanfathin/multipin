@@ -87,9 +87,6 @@
                      <li class="menu-item mega-holder">
                         <a href="login.php">Masuk</a>
                     </li>
-                     <li class="menu-item mega-holder">
-                        <a href="help.php">Pusat bantuan</a>
-                    </li>
                 </ul>
             </div>
         </div>

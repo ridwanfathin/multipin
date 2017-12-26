@@ -20,11 +20,8 @@
                             <div class="col-lg-8">
                                 <input type="password" name="password" placeholder="Password">
                             </div>
-                            <!-- <div class="col-lg-offset-4 col-lg-8">
-                                <a href="#" class="resetlink">Lupa Kata Sandi?</a>
-                            </div> -->
                             <div class="col-lg-offset-4 col-lg-8" style="padding-top: 25px; padding-bottom: 25px;">
-                                <button type="submit" class="btn btn-default"><i class="fa fa-lock" aria-hidden="true"></i> Masuk</button>
+                                <button type="button" class="btn btn-default" data-toggle="modal" data-target="#topUpModal"><i class="fa fa-lock" aria-hidden="true"></i> Masuk</button>
                             </div>
                         </form>
                     </div>
@@ -33,6 +30,26 @@
         </div>
     </div>
     <br><br><br>
+    <div id="topUpModal" class="modal fade" role="dialog">
+      <div class="modal-dialog">
+
+        <!-- Modal content-->
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal">&times;</button>
+            <h4 class="modal-title">Anda Berhasil Masuk</h4>
+          </div>
+          <div class="modal-body">
+            <p> Anda telah berhasil masuk, silahkan isi saldo pertama Anda.</p>
+          </div>
+
+          <div class="modal-footer">
+            <a href="top-up.php" type="button" class="btn btn-default" >Isi Saldo</a>
+          </div>
+        </div>
+
+      </div>
+    </div>
             
     
     <!-------------- Footer ---------------->

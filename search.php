@@ -21,7 +21,6 @@
                     <!-- Main Product Widget  -->
                     <div class="module shop-widget product-module">
                         <!-- Product tabs -->
-                        
                         <div class="tab-content">
                             <div role="tabpanel" class="tab-pane fade in active" id="new">
                                 <div class="row">
@@ -37,8 +36,6 @@
                                                 </a>
                                                 
                                                 <div class="product-btn">
-                                                    <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
-                                                    <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
                                                     <a href="detail-guest.php"><i class="fa fa-eye"></i><span class="tooltip">Lihat Rincian</span></a>
                                                 </div>
                                             </div>

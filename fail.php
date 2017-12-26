@@ -24,19 +24,16 @@
             <div class="row">
                 <div class="col-md-12">
                      <div class="single-product">
-                            <div id="single-container" class="product-container">
-                                <div class="product">
-                                    <div class="col-md-12">
-                                      <div class="text-center">
-                                          <h1>Mohon maaf</h1><br>
-                                          <h5>Transaksi pembelian Voucher Google Play IDR 120000 dengan Harga Rp. 132,000 telah gagal karena Saldo Anda tidak mencukupi</h5><br>
-                                          <a href="detail.php" type="button" class="btn btn-default">Kembali</a>
-                                        <h5>
-                                      </div>
-                                      
-                                    </div>
-
-
+                        <div id="single-container" class="product-container">
+                            <div class="product">
+                                <div class="col-md-12">
+                                  <div class="text-center">
+                                      <h1>Mohon maaf</h1><br>
+                                      <h5>Transaksi pembelian Voucher Google Play IDR 120000 dengan Harga Rp. 132,000 telah gagal karena Saldo Anda tidak mencukupi</h5><br>
+                                      <a href="detail.php" type="button" class="btn btn-default">Kembali</a>
+                                    <h5>
+                                  </div>
+                                </div>
                             </div>
                       </div>
                     </table>

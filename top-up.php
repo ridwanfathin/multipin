@@ -10,10 +10,8 @@
                             </div>
                             <div class="support-shipping-content">
                                 <h5>Nama : Airin</h5>
-                                <h5>Kredit : 56000</h5>
-                                 <a href="profil.php" type="button" class="btn btn-default">Profil</a>
-                                <a href="history.php" type="button" class="btn btn-default">Riwayat Pembelian</a>
-                                <a href="history-topup.php" type="button" class="btn btn-default">Riwayat isi saldo</a>
+                                <h5>Saldo : 56000</h5>
+                                <a href="history.php" type="button" class="btn btn-default">Riwayat Transaksi</a>
                             </div>
                         </div>
                     </div>
@@ -30,8 +28,6 @@
                                                 </a>
                                                 
                                                 <div class="product-btn">
-                                                    <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
-                                                    <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
                                                     <a href="#" id="toChannel"><i class="fa fa-eye"></i><span class="tooltip">Top Up</span></a>
                                                 </div>
                                             </div>
@@ -43,8 +39,6 @@
                                                 </a>
                                                 
                                                 <div class="product-btn">
-                                                    <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
-                                                    <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
                                                     <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Top Up</span></a>
                                                 </div>
                                             </div>
@@ -56,8 +50,6 @@
                                                 </a>
                                                 
                                                 <div class="product-btn">
-                                                    <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
-                                                    <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
                                                     <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Top Up</span></a>
                                                 </div>
                                             </div>
@@ -69,8 +61,6 @@
                                                 </a>
                                                 
                                                 <div class="product-btn">
-                                                    <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
-                                                    <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
                                                     <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Top Up</span></a>
                                                 </div>
                                             </div>
@@ -82,8 +72,6 @@
                                                 </a>
                                                 
                                                 <div class="product-btn">
-                                                    <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
-                                                    <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
                                                     <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Top Up</span></a>
                                                 </div>
                                             </div>
@@ -95,9 +83,7 @@
                                                 </a>
                                                 
                                                 <div class="product-btn">
-                                                    <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
-                                                    <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Top Up</span></a>
+                                                    <a href="#" data-toggle="modal" data-target="#failModal"><i class="fa fa-eye"></i><span class="tooltip">Top Up</span></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -108,9 +94,7 @@
                                                 </a>
                                                 
                                                 <div class="product-btn">
-                                                    <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
-                                                    <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Top Up</span></a>
+                                                    <a href="#" data-toggle="modal" data-target="#failModal"><i class="fa fa-eye"></i><span class="tooltip">Top Up</span></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -121,9 +105,7 @@
                                                 </a>
                                                 
                                                 <div class="product-btn">
-                                                    <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
-                                                    <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Top Up</span></a>
+                                                    <a href="#" data-toggle="modal" data-target="#failModal"><i class="fa fa-eye"></i><span class="tooltip">Top Up</span></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -134,9 +116,7 @@
                                                 </a>
                                                 
                                                 <div class="product-btn">
-                                                    <!--<a class="to-wish" href="index.php#"><i class="fa fa-heart"></i><span class="tooltip">Add To Wishlist</span></a>
-                                                    <a class="to-compare" href="index.php#"><i class="fa fa-plus"></i><span class="tooltip">Add To Compare</span></a>-->
-                                                    <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-eye"></i><span class="tooltip">Top Up</span></a>
+                                                    <a href="#" data-toggle="modal" data-target="#failModal"><i class="fa fa-eye"></i><span class="tooltip">Top Up</span></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -160,15 +140,34 @@
         <div class="modal-content">
           <div class="modal-header">
             <button type="button" class="close" data-dismiss="modal">&times;</button>
-            <h4 class="modal-title">isi saldo Berhasil</h4>
+            <h4 class="modal-title">Isi Saldo Berhasil</h4>
           </div>
           <div class="modal-body">
-            <p> Kredit Multipin Anda telah di top-Up sejumlah RP. 50,000.<br>
+            <p> Saldo Anda telah di top-Up sejumlah RP. 50,000.<br>
             Saldo Anda saat ini adalah Rp. 106,000.</p>
           </div>
 
           <div class="modal-footer">
             <a href="home-topup.php" type="button" class="btn btn-default" >Kembali ke Beranda</a>
+          </div>
+        </div>
+
+      </div>
+    </div>
+    <div id="failModal" class="modal fade" role="dialog">
+      <div class="modal-dialog">
+        <!-- Modal content-->
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal">&times;</button>
+            <h4 class="modal-title">Isi Saldo Gagal</h4>
+          </div>
+          <div class="modal-body">
+            <p> Terjadi kesalahan, silahkan coba lagi nanti.</p>
+          </div>
+
+          <div class="modal-footer">
+            <a href="top-up.php" type="button" class="btn btn-default" >Kembali</a>
           </div>
         </div>
 

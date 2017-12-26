@@ -99,20 +99,19 @@
                                               <th scope="row">3</th>
                                               <td>Google Play IDR 100,000</td>
                                               <td>116,000</td>
-                                              <td> <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Beli</button> </td>
+                                              <td> <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#failModal">Beli</button> </td>
                                             </tr>
                                             <tr>
                                               <th scope="row">4</th>
                                               <td>Google Play IDR 120,000</td>
                                               <td>132,000</td>
-                                              <td> <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Beli</button> </td>
+                                              <td> <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#failModal">Beli</button> </td>
                                             </tr>
                                           </tbody>
                                         </table>
                                     </div>
-
                             </div>
-    </div>
+                        </div>
                     </table>
                 </div>
             </div>
@@ -131,7 +130,7 @@
             <h4 class="modal-title">Konfirmasi Beli Voucher</h4>
           </div>
           <div class="modal-body">
-            <p> Kredit Multipin Anda akan dikurangi sejumlah Rp. 16,000.<br>
+            <p> Saldo Anda akan dikurangi sejumlah Rp. 16,000.<br>
             Apakah Anda yakin membeli voucher Google Play IDR 12,000 dengan harga Rp. 16,000?</p>
             <form>
             <label>Masukkan kata sandi Anda:</label>
@@ -147,7 +146,27 @@
 
       </div>
     </div>
+    <div id="failModal" class="modal fade" role="dialog">
+      <div class="modal-dialog">
 
+        <!-- Modal content-->
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal">&times;</button>
+            <h4 class="modal-title">Saldo Tidak Mencukupi</h4>
+          </div>
+          <div class="modal-body">
+            <p> Mohon maaf transaksi pembelian voucher tidak dapat dilakukan karena saldo anda tidak mencukupi. Silahkan isi saldo terlebih dahulu</p>
+          </div>
+
+          <div class="modal-footer">
+            <a href="top-up.php" type="button" class="btn btn-default" >Isi Saldo</a>
+            <button type="button" class="btn btn-danger" data-dismiss="modal">Kembali</button>
+          </div>
+        </div>
+
+      </div>
+    </div>
     <?php include 'footer.php'; ?>
     <!--------------- Back to Top --------------->
     <a id="toTop" class="toTop" href="cart.html#header"><i class="fa fa-angle-up"></i></a>

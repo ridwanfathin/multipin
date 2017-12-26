@@ -87,9 +87,6 @@
                     <li class="menu-item mega-holder">
                         <a href="buy-voucher.php">Beli Voucher</a>
                     </li>
-                     <li class="menu-item mega-holder">
-                        <a href="help.php">Pusat bantuan</a>
-                    </li>
                 </ul>
                 <div class="pull-right">
                     <a style="margin-top: 5px" href="index.php" type="button" class="btn btn-default">Keluar</a>
